@@ -5,6 +5,10 @@
 :+1: Click this link to view <a href="https://www.geeksforgeeks.org/javascript-object-freeze-method/" title="Click here to view JavaScript Object freeze() Method">*JavaScript Object freeze()* </a><br>
 :+1: Click this link to view <a href="https://www.w3schools.com/js/js_arrow_function.asp" title="Click here to view JavaScript Arrow Function">*JavaScript Arrow Function* </a><br>
 :+1: Click this link to view <a href="https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/" title="Click here to view arguments in JavaScript">*arguments in JavaScript* </a><br>
+:+1: Click this link to view <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment" title="Click here to view Destructuring assignment 1">*Destructuring assignment* </a><br>
+:+1: Click this link to view <a href="https://javascript.info/destructuring-assignment" title="Click here to view Destructuring assignment 2">*Destructuring assignment* </a><br>
+:+1: Click this link to view <a href="https://javascript.info/import-export" title="Click here to view JavaScript Modules">*JavaScript Modules* </a><br>
+:+1: Click this link to view <a href="https://www.w3schools.com/js/js_string_templates.asp" title="Click here to view JavaScript Template Literals">*Template Literals* </a><br>
 ### :dart: Filter vs Map vs Reduce vs Foreach
 Map, Filter, and Reduce are Array methods which help to create new arrays in various ways. They are all 'higher order' functions because they take user-defined functions as parameters.
 
