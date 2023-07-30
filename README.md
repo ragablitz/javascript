@@ -4,7 +4,6 @@
 :+1: Click this link to view <a href="https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/" title="Click here to view Difference Between var, let, and const in JavaScript">*Difference Between var, let, and const in JavaScript* </a><br>
 :+1: Click this link to view <a href="https://www.geeksforgeeks.org/javascript-object-freeze-method/" title="Click here to view JavaScript Object freeze() Method">*JavaScript Object freeze()* </a><br>
 :+1: Click this link to view <a href="https://www.w3schools.com/js/js_arrow_function.asp" title="Click here to view JavaScript Arrow Function">*JavaScript Arrow Function* </a><br>
-:+1: Click this link to view <a href="https://www.geeksforgeeks.org/what-is-the-rest-parameter-and-spread-operator-in-javascript/" title="Click here to view Difference between Spread and Rest Operator in JavaScript">*Difference between Spread and Rest Operator* </a><br>
 :+1: Click this link to view <a href="https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/" title="Click here to view arguments in JavaScript">*arguments in JavaScript* </a><br>
 ### :dart: Filter vs Map vs Reduce vs Foreach
 Map, Filter, and Reduce are Array methods which help to create new arrays in various ways. They are all 'higher order' functions because they take user-defined functions as parameters.
@@ -20,7 +19,8 @@ The callback for Reduce has two parameters: the accumulator and the current valu
 :+1: Click this link to view <a href="https://code.tutsplus.com/how-to-use-map-filter-reduce-in-javascript--cms-26209t" title="Click here to view Array Methods Explained">*Array Methods Explained* </a><br>
 ### :dart: What is the meaning of "...args" (three dots) in a function definition?
 ... is called the spread operator.<br>
-With respect to (...args) =>, ...args is a rest parameter.
+With respect to (...args) =>, ...args is a rest parameter.<br>
+:+1: Click this link to view <a href="https://www.geeksforgeeks.org/what-is-the-rest-parameter-and-spread-operator-in-javascript/" title="Click here to view Difference between Spread and Rest Operator in JavaScript">*Difference between Spread and Rest Operator* </a><br>
 ```
 function max(...value) {
   // ...
