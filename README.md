@@ -18,6 +18,8 @@
 :+1: Click this link to view <a href="https://www.programiz.com/javascript/callback" title="Click here to view JavaScript CallBack">*CallBack* </a><br>
 :+1: Click this link to view <a href="https://www.geeksforgeeks.org/what-to-understand-callback-and-callback-hell-in-javascript/" title="Click here to view What to understand Callback and Callback hell in JavaScript ?">*Callback and Callback hell* </a><br>
 :+1: Click this link to view <a href="https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/#:~:text=The%20%3D%3D%20operator%20performs%20a,well%20as%20the%20same%20value)." title="Click here to view How is == Different from === in JavaScript?">*== Different from ===* </a><br>
+:+1: Click this link to view <a href="https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb." title="Click here to view How to Use the Call, Apply, and Bind Functions in JavaScript?">*Call, Apply, and Bind Functions* </a><br>
+
 ### :dart: Filter vs Map vs Reduce vs Foreach
 Map, Filter, and Reduce are Array methods which help to create new arrays in various ways. They are all 'higher order' functions because they take user-defined functions as parameters.
 
