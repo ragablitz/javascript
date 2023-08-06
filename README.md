@@ -21,7 +21,9 @@
 :+1: Click this link to view <a href="https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb." title="Click here to view How to Use the Call, Apply, and Bind Functions in JavaScript?">*Call, Apply, and Bind Functions* </a><br>
 :+1: Click this link to view <a href="https://medium.com/@c.mansour/the-difference-between-the-filter-and-map-array-methods-in-javascript-f8164f65fa5e" title="Click here to view The difference between the filter() and map() array methods in JavaScript">*filter() and map()* </a><br>
 :+1: Click this link to view <a href="https://www.geeksforgeeks.org/undefined-vs-null-in-javascript/" title="Click here to view Undefined Vs Null in JavaScript">*Undefined Vs Null* </a><br>
-
+:+1: Click this link to view <a href="https://builtin.com/software-engineering-perspectives/javascript-api-call" title="Click here to view How to Make a JavaScript API Call?">*API Call* </a><br>
+:+1: Click this link to view <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes" title="Click here to view Prototype in JavaScript">*Prototype* </a><br>
+:+1: Click this link to view <a href="https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up#:~:text=JavaScript%20Prototypes%20vs.,is%20itself%20an%20object%20instance." title="Click here to view Javascript : Prototype vs Class">*Prototype vs Class* </a><br>
 ### :dart: Filter vs Map vs Reduce vs Foreach
 Map, Filter, and Reduce are Array methods which help to create new arrays in various ways. They are all 'higher order' functions because they take user-defined functions as parameters.
 
