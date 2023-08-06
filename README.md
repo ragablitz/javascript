@@ -25,8 +25,9 @@
 :+1: Click this link to view <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes" title="Click here to view Prototype in JavaScript">*Prototype* </a><br>
 :+1: Click this link to view <a href="https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up#:~:text=JavaScript%20Prototypes%20vs.,is%20itself%20an%20object%20instance." title="Click here to view Javascript : Prototype vs Class">*Prototype vs Class* </a><br>
 :+1: Click this link to view <a href="https://www.javascripttutorial.net/javascript-event-loop/" title="Click here to view Javascript event loop">*event loop* </a><br>
-:+1: Click this link to view <a href="https://www.makeuseof.com/javascript-event-listeners-how-to-use/" title="Click here to view How to Use Event Listeners in JavaScript">*Event Listeners* </a><br>
-
+:+1: Click this link to view <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events" title="Click here to view How to Use Event Listeners in JavaScript">*Event Listeners* </a><br>
+:+1: Click this link to view <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events" title="Click here to view Events in JavaScript">*Events* </a><br>
+:+1: Click this link to view <a href="https://www.programiz.com/javascript/getter-setter" title="Click here to view JavaScript Getter and Setter">*Getter and Setter* </a><br>
 ### :dart: Filter vs Map vs Reduce vs Foreach
 Map, Filter, and Reduce are Array methods which help to create new arrays in various ways. They are all 'higher order' functions because they take user-defined functions as parameters.
 
