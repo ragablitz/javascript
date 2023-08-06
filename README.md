@@ -24,6 +24,9 @@
 :+1: Click this link to view <a href="https://builtin.com/software-engineering-perspectives/javascript-api-call" title="Click here to view How to Make a JavaScript API Call?">*API Call* </a><br>
 :+1: Click this link to view <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes" title="Click here to view Prototype in JavaScript">*Prototype* </a><br>
 :+1: Click this link to view <a href="https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up#:~:text=JavaScript%20Prototypes%20vs.,is%20itself%20an%20object%20instance." title="Click here to view Javascript : Prototype vs Class">*Prototype vs Class* </a><br>
+:+1: Click this link to view <a href="https://www.javascripttutorial.net/javascript-event-loop/" title="Click here to view Javascript event loop">*event loop* </a><br>
+:+1: Click this link to view <a href="https://www.makeuseof.com/javascript-event-listeners-how-to-use/" title="Click here to view How to Use Event Listeners in JavaScript">*Event Listeners* </a><br>
+
 ### :dart: Filter vs Map vs Reduce vs Foreach
 Map, Filter, and Reduce are Array methods which help to create new arrays in various ways. They are all 'higher order' functions because they take user-defined functions as parameters.
 
