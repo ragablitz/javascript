@@ -28,6 +28,7 @@
 :+1: Click this link to view <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events" title="Click here to view How to Use Event Listeners in JavaScript">*Event Listeners* </a><br>
 :+1: Click this link to view <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events" title="Click here to view Events in JavaScript">*Events* </a><br>
 :+1: Click this link to view <a href="https://www.programiz.com/javascript/getter-setter" title="Click here to view JavaScript Getter and Setter">*Getter and Setter* </a><br>
+:+1: Click this link to view <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction" title="Click here to view JavaScript DOM">*DOM* </a><br>
 ### :dart: Filter vs Map vs Reduce vs Foreach
 Map, Filter, and Reduce are Array methods which help to create new arrays in various ways. They are all 'higher order' functions because they take user-defined functions as parameters.
 
